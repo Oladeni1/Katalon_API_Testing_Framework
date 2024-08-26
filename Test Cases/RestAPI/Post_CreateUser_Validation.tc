@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Post_CreateUser_Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb24e860-e61d-4b9b-abcb-5baf8a0a45b4</testCaseGuid>
+</TestCaseEntity>
